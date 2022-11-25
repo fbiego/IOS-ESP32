@@ -1,6 +1,10 @@
 # IOS-ESP32
 A demo project for the WT32-SC01 module.
 
+### SquareLine
+
+Find the SquareLine Studio project attached in [`SquareLine`](/SquareLine/) folder
+
 ![1](ios-esp32.png?raw=true "1")
 
 Current features
@@ -10,3 +14,5 @@ Current features
 - Dynamic Island
 - Control Center
 - Today View
+
+

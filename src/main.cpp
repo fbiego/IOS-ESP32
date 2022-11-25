@@ -51,7 +51,7 @@ public:
       auto cfg = _bus_instance.config();
 
       cfg.port = 0;
-      cfg.freq_write = 20000000;
+      cfg.freq_write = 40000000;
       cfg.pin_wr = 47; // pin number connecting WR
       cfg.pin_rd = -1; // pin number connecting RD
       cfg.pin_rs = 0;  // Pin number connecting RS(D/C)
